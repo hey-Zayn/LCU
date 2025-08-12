@@ -1,0 +1,59 @@
+
+{
+  "courseAudience": {
+    "react-nextjs": {
+      "audience": [
+        "Individuals looking to start a career in Frontend Development",
+        "Professionals seeking to upgrade their React/NextJS skills",
+        "Web developers wanting to learn modern frameworks",
+        "Anyone interested in building scalable web applications"
+      ],
+      "jobTitles": [
+        "Frontend Developer",
+        "Web Developer",
+        "UI Developer",
+        "React Developer",
+        "NextJs Developer",
+        "JavaScript Developer",
+        "Full Stack Developer",
+        "Freelance Web Developer"
+      ]
+    },
+    "web-development": {
+      "audience": [
+        "Beginners wanting to learn web development fundamentals",
+        "Career changers transitioning into tech",
+        "Designers looking to add development skills",
+        "Entrepreneurs who want to build their own websites"
+      ],
+      "jobTitles": [
+        "Frontend Developer",
+        "Web Developer",
+        "UI Developer",
+        "Full Stack Developer",
+        "Web Designer",
+        "Freelance Developer",
+        "JavaScript Developer",
+        "WordPress Developer"
+      ]
+    },
+    "python-django": {
+      "audience": [
+        "Aspiring Python developers",
+        "Backend developers wanting to learn Django",
+        "Data professionals expanding into web development",
+        "Engineers looking to build scalable web applications"
+      ],
+      "jobTitles": [
+        "Python Developer",
+        "Backend Developer",
+        "Django Developer",
+        "Full Stack Developer",
+        "API Developer",
+        "Software Engineer",
+        "Data Engineer",
+        "DevOps Engineer"
+      ]
+    }
+  }
+}
