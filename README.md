@@ -12,12 +12,15 @@ Forwardsols is a comprehensive web application
  (THREE.js)
 
  DEVELOPER NOTES: 
+
+ 
  Forwardsols was architected to solve fragmented
  workflows in the education/corporate sectors. The 1-3
  month sprint prioritized modularity—each system
  (jobs/courses/blogs) operates independently yet
  shares data via a unified API. Future scalability
  includes AI-driven content recommendations."
+ 
  — Zain
 
 
