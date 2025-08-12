@@ -57,7 +57,7 @@ export async function POST(req) {
             sameSite: 'lax',
             maxAge: 7 * 24 * 60 * 60, // 7 days
             path: "/",
-            domain: isProduction ? '.forwardsols.com' :  ".lcu-mocha.vercel.app"
+            // domain: isProduction ? 'https://lcu-mocha.vercel.app/' :  "lcu-mocha.vercel.app"
         });
 
         console.log('Login successful - cookie set');
