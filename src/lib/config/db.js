@@ -1,7 +1,7 @@
 
 import mongoose from 'mongoose';
 
-const MONGODB_URI = 'mongodb+srv://forwardsols:ForwardSols@cluster0.nvkpy.mongodb.net/Cluster0?retryWrites=true&w=majority';
+const MONGODB_URI = 'mongodb+srv://zaynobusiness:Zain-0300@taskmanager.avpsb.mongodb.net/client-Portfolio?retryWrites=true&w=majority&appName=TaskManager';
 
 if (!MONGODB_URI) {
   throw new Error('Please define the MONGODB_URI environment variable');
