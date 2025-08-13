@@ -104,7 +104,7 @@ const Footer = () => {
           <p className="text-white/50">Powered by:</p>
           <div className="flex flex-wrap text-sm justify-center sm:justify-start gap-1">
             <p className="text-white">forwardsols Developers</p>
-            <span className="text-white/80">Aqib Ali & Zain Butt</span>
+            <span className="text-white/80"> Zain Butt</span>
           </div>
         </div>
 
